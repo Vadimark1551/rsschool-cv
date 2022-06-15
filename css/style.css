@@ -17,10 +17,11 @@
         font-size: 22px;
         font-weight: 300;
         line-height: 2;
-        color: gray;
+        color: rgb(60, 61, 60);
         margin-left: auto;
         margin-right: auto;
         text-align: center;
+        background-color: #9b9c9c;
       }
   
       h1 {
@@ -39,38 +40,24 @@
         text-align: center;
       }
   
+
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
   
-  img {
-    height: 270px;
-    
-  }
   
-  
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .contacts {
+  h3, h4, h5, h6 {
+    color: rgb(50, 50, 51);
     text-align: center;
+    font-size: 1em;
+    margin-top: 1em;
+    margin-bottom: 0%;
   }
   
-  h3 {
-    color: rgb(185, 185, 31);
-    text-align: center;
-  }
+
   
-  
-  h4 {
-    color: chartreuse;
-    text-align: center;
-  }
-  
-  
-  h5 {
-    color: aquamarine;
-    text-align: center;
-    font-size: larger;
-  }
+
+
   
