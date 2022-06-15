@@ -1,0 +1,24 @@
+![myphoto](myphoto.jpg "Avatar")
+---
+# Vadzim Markovich
+---
+## Github: Vadimark1551
+## Email: opebthedoor@gmail.com
+---
+### About myself:
+* My goal: to find a new interesting job in the field of IT;
+* Work experience: Worked as a civil engineer, CNC machine operator, sales manager. Gained a strong motivation to learn and master a new specialty;
+* Skils: JS / HTML / CSS ;
+
+---
+#### Code example
+```
+var userName = 'Vadzim';
+userName ? console.log (`Hello, ${userName}`) : console.log ('Hello!');
+const userQuestion = 'is the IT Hero?';
+console.log(userName + userQuestion);
+```
+---
+* no work expirience in IT;
+* learning in Codecademy.com on the course Learning Java Script;
+* English B1
