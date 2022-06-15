@@ -1,10 +1,63 @@
-html {
-    font-family: 'Work Sans', sans-serif;
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 2;
-    color: gray;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+@font-face {
+    font-family: Roboto;
+     src: url("assets/fonts/Roboto.ttf");
   }
+  
+     @font-face {
+      font-family: Work Sans;
+       src: url("assets/fonts/Work Sans.ttf");
+     }
+  
+     * {
+      box-sizing: border-box;
+    }
+  
+     html {
+        font-family: 'Work Sans', sans-serif;
+        font-size: 22px;
+        font-weight: 300;
+        line-height: 2;
+        color: rgb(60, 61, 60);
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        background-color: #9b9c9c;
+      }
+  
+      h1 {
+        color: rgb(53, 53, 52);
+        font-family: Roboto;
+        margin-top: 1em;
+        margin-bottom: 0%;
+        text-align: center;
+      }
+  
+      h2 {
+        color: green;
+        margin-bottom: 0;
+        margin-top: 0em;
+        font-weight: 500;
+        text-align: center;
+      }
+  
+
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+  
+  
+  h3, h4, h5, h6 {
+    color: rgb(50, 50, 51);
+    text-align: center;
+    font-size: 1em;
+    margin-top: 1em;
+    margin-bottom: 0%;
+  }
+  
+
+  
+
+
+  
