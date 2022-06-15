@@ -2,15 +2,16 @@
 ---
 # Vadzim Markovich
 ---
-## Github: https://github.com/Vadimark1551
+## Github: Vadimark1551
 ## Email: opebthedoor@gmail.com
 ---
 ### About myself:
 * My goal: to find a new interesting job in the field of IT;
 * Work experience: Worked as a civil engineer, CNC machine operator, sales manager. Gained a strong motivation to learn and master a new specialty;
 * Skils: JS / HTML / CSS ;
+
 ---
-#### code example
+#### Code example
 ```
 var userName = 'Vadzim';
 userName ? console.log (`Hello, ${userName}`) : console.log ('Hello!');
